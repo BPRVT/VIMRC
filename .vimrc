@@ -1,8 +1,8 @@
-""""""""""""""""""""""""""
-" Ben Rosenbloom Custom VIMRC "
-        "4/11/2022"
+----------------------------------------------------------
+" Ben Rosenbloom VIMRC "
 "Custom .vimrc that I use for my Computer Science Class"
-""""""""""""""""""""""""""
+"4/11/2022"
+----------------------------------------------------------
 
 syntax on
 set guifont=ProggyCleanTTSZBP:h12:cDEFAULT
